@@ -1,5 +1,5 @@
 # Wallpaper changer for Gnome 🖼️
-This is an wallpaper changer written in bash script for Gnome
+As Linux, in my case Ubuntu, doesn't come by default with a program that allows you to change the computer's wallpaper automatically, I created this program. It's a simple script that you just have to add the folder containing the images you want as wallpaper and the changeover time between the images.
 
 ---
 
