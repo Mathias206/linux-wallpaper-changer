@@ -15,13 +15,13 @@ As Linux, in my case Ubuntu, doesn't come by default with a program that allows 
 
 ---
 
-## Run the script in background
+## How to run the script in background
 1. Run the script using the command ```./wallpaper_changer.sh &```
 2. Then run the command ```disown```. Now you can close the terminal, the program will keep running in the background.
 
 ---
 
-## Run the script automatically on starts up 
+## How to run the script automatically on starts up 
 
 #### 1. Run ```gnome-session-properties``` in your gnome-shell
 #### 2. Click on the "Add" button <br>
