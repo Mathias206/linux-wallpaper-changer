@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-WALLPAPERS_PATH=/home/mathias/Pictures/wallpapers #paste your wallpapers path here. Example: /home/user/Pictures
+WALLPAPERS_PATH=/paste/your/wallpaper/directory/path/here #paste your wallpapers path here. Example: /home/user/Pictures
 INTERVAL=5m #choose the change time interval between the images. Use suffix 's' for seconds, 'm' for minutes or 'h' for hours  
 
 N=0
